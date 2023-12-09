@@ -1,0 +1,30 @@
+﻿HTML E CSS - DESENVOLVIMENTO 01
+
+
+
+
+Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizadas e numeradas, além de um grupo específico de tags HTML logo abaixo.
+
+
+Em um arquivo aparte, associe cada tag HTML com o respectivo número da área que o representa (Exemplo: 1. footer, 2. input, etc...), suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+1. Header
+2. Main
+3. Nav
+4. Aside
+5. Img ou H1
+6. H2
+7. <P>
+  
+
+8. <span>
+9. section
+10. Select
+11. textarea
+
+
+12. Form
+13. label
+14. input
+15. select
+16. button
